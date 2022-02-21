@@ -1,0 +1,6 @@
+intent: ENTITY
+description: 'Unified Loan Repayment allocate'
+
+
+isPersonalData: false
+isPii: false

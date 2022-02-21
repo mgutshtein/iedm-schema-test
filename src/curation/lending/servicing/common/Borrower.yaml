@@ -1,0 +1,5 @@
+intent: INTERFACE
+description: 'Attributes of a borrower taking out a loan, sourced from the servicer'
+
+isPersonalData: true
+isPii: true

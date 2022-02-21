@@ -1,0 +1,5 @@
+intent: INTERFACE
+description: 'Loan allocation interface '
+
+classification: RESTRICTED
+isPersonalData: false

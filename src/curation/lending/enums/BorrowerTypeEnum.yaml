@@ -1,0 +1,7 @@
+intent: TYPE
+type: "string"
+description: Borrower Type Enum.
+enum:
+  - UNKNOWN
+  - COMPANY
+  - PERSON

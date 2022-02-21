@@ -1,0 +1,6 @@
+intent: ENTITY
+description: 'Unified loan participation entity '
+typeGUID: -e9c9-521b546695b7c
+
+isPersonalData: false
+isPii: false

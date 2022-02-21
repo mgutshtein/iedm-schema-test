@@ -1,0 +1,7 @@
+intent: TYPE
+type: "string"
+description: Type of the Loan.
+enum:
+  - TERM
+  - LINE_OF_CREDIT
+  - UNKNOWN
